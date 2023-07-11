@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andrea Walter</h1>
-<h3 align="center">Student at 42, Le Havre</h3>
+<h3 align="center">Student at 42LeHavre</h3>
 
 <br>
 
 <p><img align="right" src="https://tenor.com/view/code-codebullet-ai-lets-ai-that-bish-programming-gif-27617021.gif" alt="let's ai that bish" /></p>
 
 
-- 🌱 I’m currently learning C++ and python django
+- 👨‍💻 I’m currently learning C++ and python django
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
-- ⚡ Fun fact : yes
+- 🗿 Fun fact : yes
 
 <br>
 
