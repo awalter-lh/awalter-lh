@@ -6,7 +6,7 @@
 <p><img align="right" src="https://tenor.com/view/code-codebullet-ai-lets-ai-that-bish-programming-gif-27617021.gif" alt="let's ai that bish" /></p>
 
 
-- 🌱 I’m currently learning C, C++ and python
+- 🌱 I’m currently learning C++ and python django
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
