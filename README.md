@@ -3,7 +3,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently learning C++ and python django
+- 👨‍💻 I’m currently learning C++ and python
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
