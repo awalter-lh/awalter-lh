@@ -3,7 +3,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently learning C++ and python
+- 👨‍💻 I’m currently learning embedded programming on arduino
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
