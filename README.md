@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
-- 🗿 Fun fact : yes
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
