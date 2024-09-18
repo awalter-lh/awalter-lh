@@ -3,7 +3,7 @@
 
 <br>
 
-- 👨‍💻 I’m currently learning embedded programming on arduino
+- 👨‍💻 I’m currently learning embedded programming on arduino and Artificial Intelligence
 
 - 📫 How to reach me **andrea.walter03@gmail.com**
 
