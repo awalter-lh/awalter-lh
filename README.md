@@ -22,6 +22,10 @@
 
 <br>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=awalter42&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awalter42&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="awalter42" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
